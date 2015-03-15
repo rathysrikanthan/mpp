@@ -1,0 +1,12 @@
+Laswell's Policy Cycle
+
+Pros: 
+  Normative model
+  Subcategories allow for in-depth analysis of different policy steps (e.g. implementation, agenda setting)
+  Implementation was identified as a crucial step to policy evaluation due to the framework of analysis established
+  
+Cons:
+  Assumes causal relationships
+  Unempirical
+  Assumes linear feedback, where empirical studies observe a feedback loop
+  The cycle often starts and stops arbitrarily (does not always begin at agenda setting and end at evaluation)
